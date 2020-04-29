@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nextActivity"
+        android:title="@string/next_activity"
+        android:onClick="onMenuNextActivityClicked"
+        />
+    <item
+        android:id="@+id/FillForm"
+        android:title="@string/fill_form"
+        android:onClick="onMenuFillFormClicked"
+        />
+    <item
+        android:id="@+id/Flip"
+        android:title="@string/flip"
+        android:onClick="onMenuFlipClicked"
+        />
+
+    <item android:id="@+id/Colors"
+        android:onClick="onMenuColorClicked"
+        android:title="@string/change_color"
+        />
+
+</menu>

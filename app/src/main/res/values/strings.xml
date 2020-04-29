@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="fill_form">Fill form</string>
+    <string name="flip">Flip</string>
+    <string name="color">Color</string>
+    <string name="previous_activity">Previous activity</string>
+    <string name="change_color">Change color</string>
+    <string name="green">Green</string>
+    <string name="blue">blue</string>
+    <string name="red">red</string>
+    <string name="next_activity_popup">Перейти до активності</string>
+    <string name="picture_popup">Картинка</string>
+    <string name="enter_data">Ввести дані</string>
+</resources>
